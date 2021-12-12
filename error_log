@@ -1,0 +1,298 @@
+[20-Jul-2020 15:36:21 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/logeo.php on line 20
+[20-Jul-2020 15:36:21 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/ugnroxmy/public_html/panel1/logeo.php:1) in /home1/ugnroxmy/public_html/panel1/logeo.php on line 35
+[20-Jul-2020 15:38:22 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/logeo.php on line 16
+[20-Jul-2020 15:38:22 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/ugnroxmy/public_html/panel1/logeo.php:1) in /home1/ugnroxmy/public_html/panel1/logeo.php on line 24
+[20-Jul-2020 15:39:07 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/template.php on line 34
+[20-Jul-2020 15:39:21 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[20-Jul-2020 15:39:21 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home1/ugnroxmy/public_html/panel1/inicio.php on line 50
+[20-Jul-2020 15:39:47 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home1/ugnroxmy/public_html/panel1/reporte.php:24
+Stack trace:
+#0 {main}
+  thrown in /home1/ugnroxmy/public_html/panel1/reporte.php on line 24
+[20-Jul-2020 15:40:06 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/logeo.php on line 16
+[20-Jul-2020 15:44:07 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/logeo.php on line 16
+[20-Jul-2020 15:44:07 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/ugnroxmy/public_html/panel1/logeo.php:1) in /home1/ugnroxmy/public_html/panel1/logeo.php on line 24
+[20-Jul-2020 15:50:23 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/logeo.php on line 16
+[20-Jul-2020 15:50:23 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function query() in /home1/ugnroxmy/public_html/panel1/logeo.php:20
+Stack trace:
+#0 {main}
+  thrown in /home1/ugnroxmy/public_html/panel1/logeo.php on line 20
+[20-Jul-2020 15:52:33 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/logeo.php on line 16
+[20-Jul-2020 15:52:33 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/ugnroxmy/public_html/panel1/logeo.php:1) in /home1/ugnroxmy/public_html/panel1/logeo.php on line 24
+[20-Jul-2020 15:58:22 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/logeo.php on line 16
+[20-Jul-2020 15:58:22 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/ugnroxmy/public_html/panel1/logeo.php:1) in /home1/ugnroxmy/public_html/panel1/logeo.php on line 24
+[20-Jul-2020 16:08:04 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[20-Jul-2020 16:08:04 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home1/ugnroxmy/public_html/panel1/inicio.php on line 50
+[20-Jul-2020 16:10:17 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[20-Jul-2020 16:10:17 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home1/ugnroxmy/public_html/panel1/inicio.php on line 50
+[20-Jul-2020 16:19:28 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[20-Jul-2020 16:19:40 America/Boise] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home1/ugnroxmy/public_html/panel1/plantilla.php:24) in /home1/ugnroxmy/public_html/panel1/fpdf182/fpdf.php:271
+Stack trace:
+#0 /home1/ugnroxmy/public_html/panel1/fpdf182/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home1/ugnroxmy/public_html/panel1/fpdf182/fpdf.php(999): FPDF->_checkoutput()
+#2 /home1/ugnroxmy/public_html/panel1/reporte.php(33): FPDF->Output()
+#3 {main}
+  thrown in /home1/ugnroxmy/public_html/panel1/fpdf182/fpdf.php on line 271
+[20-Jul-2020 16:22:34 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/confirmar.php on line 34
+[20-Jul-2020 16:22:34 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home1/ugnroxmy/public_html/panel1/tblconfirmar.php on line 37
+[20-Jul-2020 16:22:40 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/pagados.php on line 34
+[20-Jul-2020 16:22:40 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home1/ugnroxmy/public_html/panel1/tblpagado.php on line 38
+[20-Jul-2020 16:22:49 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/pdf.php on line 34
+[20-Jul-2020 16:25:01 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/tabulador.php on line 34
+[20-Jul-2020 16:43:33 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[20-Jul-2020 16:45:37 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/template.php on line 34
+[20-Jul-2020 16:48:51 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/template.php on line 34
+[20-Jul-2020 16:49:14 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/template.php on line 34
+[20-Jul-2020 16:50:22 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/template.php on line 34
+[20-Jul-2020 16:51:19 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/template.php on line 34
+[20-Jul-2020 16:52:49 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/template.php on line 34
+[20-Jul-2020 16:53:23 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[20-Jul-2020 16:54:00 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[21-Jul-2020 08:31:23 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[21-Jul-2020 13:49:24 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[22-Jul-2020 09:46:03 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[22-Jul-2020 09:46:14 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/template.php on line 34
+[22-Jul-2020 09:47:10 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/confirmar.php on line 34
+[22-Jul-2020 09:47:10 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home1/ugnroxmy/public_html/panel1/tblconfirmar.php on line 37
+[22-Jul-2020 12:44:56 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[22-Jul-2020 12:46:14 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/template.php on line 34
+[22-Jul-2020 12:46:25 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/pdf.php on line 34
+[23-Jul-2020 08:39:07 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[23-Jul-2020 08:39:52 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/confirmar.php on line 34
+[23-Jul-2020 08:39:52 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home1/ugnroxmy/public_html/panel1/tblconfirmar.php on line 37
+[23-Jul-2020 08:39:58 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/pendientes.php on line 34
+[23-Jul-2020 08:39:58 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home1/ugnroxmy/public_html/panel1/tblpendientes.php on line 37
+[23-Jul-2020 08:40:05 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/pagados.php on line 34
+[23-Jul-2020 08:40:05 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home1/ugnroxmy/public_html/panel1/tblpagado.php on line 38
+[23-Jul-2020 08:40:46 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/tabulador.php on line 34
+[23-Jul-2020 08:50:16 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/tabulador.php on line 34
+[23-Jul-2020 08:51:08 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/template.php on line 34
+[23-Jul-2020 08:52:05 America/Boise] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home1/ugnroxmy/public_html/panel1/plantilla.php:24) in /home1/ugnroxmy/public_html/panel1/fpdf182/fpdf.php:271
+Stack trace:
+#0 /home1/ugnroxmy/public_html/panel1/fpdf182/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home1/ugnroxmy/public_html/panel1/fpdf182/fpdf.php(999): FPDF->_checkoutput()
+#2 /home1/ugnroxmy/public_html/panel1/reporte.php(33): FPDF->Output()
+#3 {main}
+  thrown in /home1/ugnroxmy/public_html/panel1/fpdf182/fpdf.php on line 271
+[25-Jul-2020 12:24:56 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[26-Jul-2020 12:14:12 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[26-Jul-2020 21:53:30 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[26-Jul-2020 21:55:42 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/tabulador.php on line 34
+[27-Jul-2020 09:27:51 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[27-Jul-2020 12:05:56 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[27-Jul-2020 12:08:50 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[27-Jul-2020 12:09:16 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/confirmar.php on line 34
+[27-Jul-2020 12:09:16 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home1/ugnroxmy/public_html/panel1/tblconfirmar.php on line 37
+[27-Jul-2020 12:11:41 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/confirmar.php on line 34
+[27-Jul-2020 12:11:41 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home1/ugnroxmy/public_html/panel1/tblconfirmar.php on line 37
+[27-Jul-2020 12:13:28 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/pendientes.php on line 34
+[27-Jul-2020 12:13:28 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home1/ugnroxmy/public_html/panel1/tblpendientes.php on line 37
+[27-Jul-2020 12:13:37 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/pagados.php on line 34
+[27-Jul-2020 12:13:37 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home1/ugnroxmy/public_html/panel1/tblpagado.php on line 38
+[27-Jul-2020 13:01:30 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[27-Jul-2020 14:01:16 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[27-Jul-2020 14:03:02 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/template.php on line 34
+[27-Jul-2020 14:05:37 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[27-Jul-2020 14:05:44 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/confirmar.php on line 34
+[27-Jul-2020 14:05:44 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home1/ugnroxmy/public_html/panel1/tblconfirmar.php on line 37
+[27-Jul-2020 14:05:52 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/pendientes.php on line 34
+[27-Jul-2020 14:05:52 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home1/ugnroxmy/public_html/panel1/tblpendientes.php on line 37
+[27-Jul-2020 14:05:55 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/pagados.php on line 34
+[27-Jul-2020 14:05:55 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home1/ugnroxmy/public_html/panel1/tblpagado.php on line 38
+[27-Jul-2020 14:11:28 America/Boise] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home1/ugnroxmy/public_html/panel1/plantilla.php:24) in /home1/ugnroxmy/public_html/panel1/fpdf182/fpdf.php:271
+Stack trace:
+#0 /home1/ugnroxmy/public_html/panel1/fpdf182/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home1/ugnroxmy/public_html/panel1/fpdf182/fpdf.php(999): FPDF->_checkoutput()
+#2 /home1/ugnroxmy/public_html/panel1/reporte.php(33): FPDF->Output()
+#3 {main}
+  thrown in /home1/ugnroxmy/public_html/panel1/fpdf182/fpdf.php on line 271
+[27-Jul-2020 14:18:21 America/Boise] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home1/ugnroxmy/public_html/panel1/plantilla.php:24) in /home1/ugnroxmy/public_html/panel1/fpdf182/fpdf.php:271
+Stack trace:
+#0 /home1/ugnroxmy/public_html/panel1/fpdf182/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home1/ugnroxmy/public_html/panel1/fpdf182/fpdf.php(999): FPDF->_checkoutput()
+#2 /home1/ugnroxmy/public_html/panel1/reporte.php(33): FPDF->Output()
+#3 {main}
+  thrown in /home1/ugnroxmy/public_html/panel1/fpdf182/fpdf.php on line 271
+[27-Jul-2020 14:18:31 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/pendientes.php on line 34
+[27-Jul-2020 14:18:47 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[27-Jul-2020 14:20:54 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/confirmar.php on line 34
+[27-Jul-2020 14:20:54 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home1/ugnroxmy/public_html/panel1/tblconfirmar.php on line 37
+[27-Jul-2020 14:20:58 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/pagados.php on line 34
+[27-Jul-2020 14:21:55 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/confirmar.php on line 34
+[27-Jul-2020 14:22:05 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/ugnroxmy/public_html/panel1/confirmarpago.php on line 10
+[27-Jul-2020 14:22:21 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/confirmar.php on line 34
+[27-Jul-2020 14:24:00 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/pdf.php on line 34
+[27-Jul-2020 14:26:05 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[27-Jul-2020 14:26:18 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home1/ugnroxmy/public_html/panel1/reporte.php:24
+Stack trace:
+#0 {main}
+  thrown in /home1/ugnroxmy/public_html/panel1/reporte.php on line 24
+[27-Jul-2020 14:31:35 America/Boise] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home1/ugnroxmy/public_html/panel1/plantilla.php:24) in /home1/ugnroxmy/public_html/panel1/fpdf182/fpdf.php:271
+Stack trace:
+#0 /home1/ugnroxmy/public_html/panel1/fpdf182/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home1/ugnroxmy/public_html/panel1/fpdf182/fpdf.php(999): FPDF->_checkoutput()
+#2 /home1/ugnroxmy/public_html/panel1/reporte.php(33): FPDF->Output()
+#3 {main}
+  thrown in /home1/ugnroxmy/public_html/panel1/fpdf182/fpdf.php on line 271
+[27-Jul-2020 14:33:28 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/confirmar.php on line 34
+[27-Jul-2020 14:47:25 America/Boise] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home1/ugnroxmy/public_html/panel1/plantilla.php:24) in /home1/ugnroxmy/public_html/panel1/fpdf182/fpdf.php:271
+Stack trace:
+#0 /home1/ugnroxmy/public_html/panel1/fpdf182/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home1/ugnroxmy/public_html/panel1/fpdf182/fpdf.php(999): FPDF->_checkoutput()
+#2 /home1/ugnroxmy/public_html/panel1/reporte.php(33): FPDF->Output()
+#3 {main}
+  thrown in /home1/ugnroxmy/public_html/panel1/fpdf182/fpdf.php on line 271
+[27-Jul-2020 14:47:34 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/pendientes.php on line 34
+[27-Jul-2020 15:36:09 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/template.php on line 34
+[27-Jul-2020 15:47:46 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[27-Jul-2020 15:47:57 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[27-Jul-2020 21:51:02 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[27-Jul-2020 22:18:14 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[28-Jul-2020 08:21:27 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/tabulador.php on line 34
+[01-Aug-2020 11:45:09 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[01-Aug-2020 11:50:15 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[01-Aug-2020 11:53:24 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/pdf.php on line 34
+[01-Aug-2020 12:14:44 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/template.php on line 34
+[01-Aug-2020 12:15:03 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[01-Aug-2020 13:07:22 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/template.php on line 34
+[01-Aug-2020 13:07:48 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[01-Aug-2020 13:15:56 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[10-Aug-2020 14:44:03 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[10-Aug-2020 14:44:50 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/tabulador.php on line 34
+[10-Aug-2020 14:45:09 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/pdf.php on line 34
+[10-Aug-2020 14:45:20 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/confirmar.php on line 34
+[10-Aug-2020 14:45:30 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/pendientes.php on line 34
+[10-Aug-2020 14:46:37 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/confirmar.php on line 34
+[10-Aug-2020 14:46:57 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/ugnroxmy/public_html/panel1/confirmarpago.php on line 10
+[10-Aug-2020 14:46:59 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/pagados.php on line 34
+[10-Aug-2020 14:47:04 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/pagados.php on line 34
+[10-Aug-2020 14:47:26 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/template.php on line 34
+[10-Aug-2020 14:47:52 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/pagados.php on line 34
+[30-Aug-2020 15:25:14 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[30-Aug-2020 15:28:03 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/confirmar.php on line 34
+[30-Aug-2020 15:28:45 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/template.php on line 34
+[30-Aug-2020 16:46:05 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/template.php on line 34
+[01-Sep-2020 14:28:28 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[01-Sep-2020 15:01:48 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[04-Sep-2020 13:27:29 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[18-Oct-2020 20:27:02 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[18-Oct-2020 20:29:02 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/tabulador.php on line 34
+[18-Oct-2020 20:29:37 America/Boise] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home1/ugnroxmy/public_html/panel1/plantilla.php:24) in /home1/ugnroxmy/public_html/panel1/fpdf182/fpdf.php:271
+Stack trace:
+#0 /home1/ugnroxmy/public_html/panel1/fpdf182/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home1/ugnroxmy/public_html/panel1/fpdf182/fpdf.php(999): FPDF->_checkoutput()
+#2 /home1/ugnroxmy/public_html/panel1/reporte.php(33): FPDF->Output()
+#3 {main}
+  thrown in /home1/ugnroxmy/public_html/panel1/fpdf182/fpdf.php on line 271
+[15-Jul-2021 15:36:14 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[15-Jul-2021 15:39:27 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[15-Jul-2021 15:40:22 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[15-Jul-2021 15:40:42 America/Boise] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home1/ugnroxmy/public_html/panel1/plantilla.php:24) in /home1/ugnroxmy/public_html/panel1/fpdf182/fpdf.php:271
+Stack trace:
+#0 /home1/ugnroxmy/public_html/panel1/fpdf182/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home1/ugnroxmy/public_html/panel1/fpdf182/fpdf.php(999): FPDF->_checkoutput()
+#2 /home1/ugnroxmy/public_html/panel1/reporte.php(33): FPDF->Output()
+#3 {main}
+  thrown in /home1/ugnroxmy/public_html/panel1/fpdf182/fpdf.php on line 271
+[15-Jul-2021 20:21:14 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/template.php on line 34
+[15-Jul-2021 20:29:04 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[15-Jul-2021 20:34:05 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[15-Jul-2021 20:34:27 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/confirmar.php on line 34
+[15-Jul-2021 20:34:35 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/tabulador.php on line 34
+[15-Jul-2021 20:34:43 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/pdf.php on line 34
+[15-Jul-2021 20:35:07 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/template.php on line 34
+[15-Jul-2021 20:35:47 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[15-Jul-2021 20:35:56 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/confirmar.php on line 34
+[15-Jul-2021 20:37:05 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/pdf.php on line 34
+[16-Jul-2021 12:42:09 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/template.php on line 34
+[16-Jul-2021 13:15:28 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/template.php on line 34
+[16-Jul-2021 13:15:35 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[17-Jul-2021 10:57:02 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[17-Jul-2021 16:57:20 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/confirmar.php on line 34
+[17-Jul-2021 17:55:31 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/confirmar.php on line 34
+[17-Jul-2021 17:55:37 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[18-Jul-2021 13:13:21 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[18-Jul-2021 13:13:26 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[20-Jul-2021 20:31:53 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[20-Jul-2021 20:41:59 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/template.php on line 34
+[20-Jul-2021 21:07:38 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/pdf.php on line 34
+[20-Jul-2021 22:57:34 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/confirmar.php on line 34
+[21-Jul-2021 20:01:29 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/pdf.php on line 34
+[21-Jul-2021 20:10:06 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/confirmar.php on line 34
+[21-Jul-2021 20:14:26 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[21-Jul-2021 22:14:12 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/template.php on line 34
+[21-Jul-2021 22:14:25 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/confirmar.php on line 34
+[21-Jul-2021 22:15:26 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[21-Jul-2021 22:19:34 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/tabulador.php on line 34
+[21-Jul-2021 22:22:41 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/template.php on line 34
+[22-Jul-2021 10:20:04 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/template.php on line 34
+[22-Jul-2021 11:10:02 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/template.php on line 34
+[31-Aug-2021 09:35:42 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[31-Aug-2021 09:37:14 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/tabulador.php on line 34
+[31-Aug-2021 09:39:33 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/template.php on line 34
+[31-Aug-2021 09:39:45 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/confirmar.php on line 34
+[31-Aug-2021 09:42:32 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[31-Aug-2021 09:42:51 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[31-Aug-2021 09:43:21 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/template.php on line 34
+[31-Aug-2021 09:43:35 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/tabulador.php on line 34
+[31-Aug-2021 10:56:30 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[31-Aug-2021 11:04:02 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[31-Aug-2021 11:04:21 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[31-Aug-2021 11:05:04 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[31-Aug-2021 11:05:58 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[31-Aug-2021 11:09:45 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/confirmar.php on line 34
+[31-Aug-2021 11:09:55 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/pdf.php on line 34
+[31-Aug-2021 11:16:36 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[31-Aug-2021 11:16:52 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[31-Aug-2021 11:31:47 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[31-Aug-2021 11:34:06 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[31-Aug-2021 11:34:54 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[31-Aug-2021 11:35:07 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[31-Aug-2021 11:35:47 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/confirmar.php on line 34
+[31-Aug-2021 11:35:54 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/confirmar.php on line 34
+[31-Aug-2021 11:36:18 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/confirmar.php on line 34
+[31-Aug-2021 11:36:20 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/tabulador.php on line 34
+[31-Aug-2021 11:36:24 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/confirmar.php on line 34
+[31-Aug-2021 11:36:28 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/tabulador.php on line 34
+[31-Aug-2021 11:36:39 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/tabulador.php on line 34
+[31-Aug-2021 11:36:57 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/tabulador.php on line 34
+[31-Aug-2021 11:38:21 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[31-Aug-2021 11:39:16 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/pdf.php on line 34
+[31-Aug-2021 11:47:27 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[26-Sep-2021 12:54:59 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[26-Sep-2021 15:32:22 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/confirmar.php on line 34
+[26-Sep-2021 15:32:27 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/pdf.php on line 34
+[26-Sep-2021 19:48:56 America/Boise] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home1/ugnroxmy/public_html/panel1/plantilla.php:24) in /home1/ugnroxmy/public_html/panel1/fpdf182/fpdf.php:271
+Stack trace:
+#0 /home1/ugnroxmy/public_html/panel1/fpdf182/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home1/ugnroxmy/public_html/panel1/fpdf182/fpdf.php(999): FPDF->_checkoutput()
+#2 /home1/ugnroxmy/public_html/panel1/reporte.php(33): FPDF->Output()
+#3 {main}
+  thrown in /home1/ugnroxmy/public_html/panel1/fpdf182/fpdf.php on line 271
+[30-Sep-2021 10:02:54 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[30-Sep-2021 10:07:24 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/template.php on line 34
+[30-Sep-2021 11:10:17 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[30-Sep-2021 11:13:17 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/template.php on line 34
+[30-Sep-2021 11:16:43 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[30-Sep-2021 11:22:46 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[30-Sep-2021 16:08:20 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[30-Sep-2021 16:08:28 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/confirmar.php on line 34
+[05-Oct-2021 10:01:40 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[05-Oct-2021 10:02:01 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/tabulador.php on line 34
+[05-Oct-2021 10:20:00 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/tabulador.php on line 34
+[05-Oct-2021 12:04:12 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[05-Oct-2021 12:16:18 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[19-Oct-2021 15:46:42 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[19-Oct-2021 16:35:36 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[20-Oct-2021 08:28:54 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[20-Oct-2021 09:41:00 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[27-Oct-2021 18:11:02 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[29-Oct-2021 09:45:29 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[29-Oct-2021 09:47:31 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[31-Oct-2021 19:43:15 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[04-Nov-2021 17:53:02 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[04-Nov-2021 17:56:55 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[05-Nov-2021 08:11:05 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
+[05-Nov-2021 08:11:34 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/tabulador.php on line 34
+[05-Nov-2021 08:12:40 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/tabulador.php on line 34
+[05-Nov-2021 08:29:10 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/ugnroxmy/public_html/panel1/oficiales.php on line 34
